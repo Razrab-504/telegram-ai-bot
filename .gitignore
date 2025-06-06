@@ -1,0 +1,45 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# 📦 Виртуальное окружение
+venv/
+env/
+.venv/
+.env/
+
+# 📁 Конфиденциальные файлы и ключи
+.env
+.env.*
+
+# 🔊 Временные аудиофайлы
+audio.ogg
+
+# 🧠 Базы данных
+*.sqlite3
+*.db
+
+# 💾 IDE/редактор
+.vscode/
+.idea/
+
+# 📦 Кэш pip
+pip-wheel-metadata/
+__pypackages__/
+.cache/
+
+# 🐘 Jupyter (если вдруг используешь)
+.ipynb_checkpoints/
+
+# 🔍 Mac/Linux/Windows системные файлы
+.DS_Store
+Thumbs.db
